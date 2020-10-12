@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/restaurant-menu/static/css/main.a80fe6ff.chunk.css",
+    "main.js": "/restaurant-menu/static/js/main.43f1466f.chunk.js",
+    "main.js.map": "/restaurant-menu/static/js/main.43f1466f.chunk.js.map",
+    "runtime~main.js": "/restaurant-menu/static/js/runtime~main.07df0635.js",
+    "runtime~main.js.map": "/restaurant-menu/static/js/runtime~main.07df0635.js.map",
+    "static/js/2.68eaa2da.chunk.js": "/restaurant-menu/static/js/2.68eaa2da.chunk.js",
+    "static/js/2.68eaa2da.chunk.js.map": "/restaurant-menu/static/js/2.68eaa2da.chunk.js.map",
+    "index.html": "/restaurant-menu/index.html",
+    "precache-manifest.25e9b7da746a1e5ac74b0f1256c24fce.js": "/restaurant-menu/precache-manifest.25e9b7da746a1e5ac74b0f1256c24fce.js",
+    "service-worker.js": "/restaurant-menu/service-worker.js",
+    "static/css/main.a80fe6ff.chunk.css.map": "/restaurant-menu/static/css/main.a80fe6ff.chunk.css.map",
+    "static/media/food-bg.jpg": "/restaurant-menu/static/media/food-bg.698e5e80.jpg",
+    "static/media/shopping-cart-solid.svg": "/restaurant-menu/static/media/shopping-cart-solid.701d6d1d.svg"
+  }
+}
